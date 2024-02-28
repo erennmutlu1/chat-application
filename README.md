@@ -10,8 +10,7 @@ This is a simple real-time chat application built with HTML, CSS, and JavaScript
 - Avatars: Users have unique avatars generated using RoboHash.
 
 ## Screenshots
-
-![chat-application](https://github.com/erennmutlu1/chat-application/assets/71450016/ad622add-4ecc-45a2-ad3b-d59c990e0c63)
+![chat-application](https://github.com/erennmutlu1/chat-application/assets/71450016/20601297-11ba-480e-b21f-bcb97486d0d1)
 
 ### Prerequisites
 
